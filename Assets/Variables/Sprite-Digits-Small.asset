@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7498395589d0a4242b3e2edce472c7d9, type: 3}
+  m_Name: Sprite-Digits-Small
+  m_EditorClassIdentifier: 
+  <SpriteWidth>k__BackingField: 6
+  <Zero>k__BackingField: {fileID: 433231410, guid: dfb7dc7103c7f394fa6a0ccc5ba1acba, type: 3}
+  <One>k__BackingField: {fileID: -1578049867, guid: dfb7dc7103c7f394fa6a0ccc5ba1acba, type: 3}
+  <Two>k__BackingField: {fileID: 1279155436, guid: dfb7dc7103c7f394fa6a0ccc5ba1acba, type: 3}
+  <Three>k__BackingField: {fileID: -1422788846, guid: dfb7dc7103c7f394fa6a0ccc5ba1acba, type: 3}
+  <Four>k__BackingField: {fileID: -1842366259, guid: dfb7dc7103c7f394fa6a0ccc5ba1acba, type: 3}
+  <Five>k__BackingField: {fileID: 1556422508, guid: dfb7dc7103c7f394fa6a0ccc5ba1acba, type: 3}
+  <Six>k__BackingField: {fileID: 1158086759, guid: dfb7dc7103c7f394fa6a0ccc5ba1acba, type: 3}
+  <Seven>k__BackingField: {fileID: -422172103, guid: dfb7dc7103c7f394fa6a0ccc5ba1acba, type: 3}
+  <Eight>k__BackingField: {fileID: -2014970462, guid: dfb7dc7103c7f394fa6a0ccc5ba1acba, type: 3}
+  <Nine>k__BackingField: {fileID: 1652254820, guid: dfb7dc7103c7f394fa6a0ccc5ba1acba, type: 3}
+  <Invalid>k__BackingField: {fileID: 0}
